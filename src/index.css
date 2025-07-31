@@ -1,0 +1,67 @@
+/* BillingApp  css */
+.App1{
+  width: 500px;
+  min-height: 180px;
+  margin: 50px auto;
+  padding: 20xp;
+  background-color: black;
+  color: white;
+}
+.hed{
+ padding: 30px;
+ background-color: #333;
+}
+input{
+  margin:20px;
+  padding:10px;
+  border: none;
+  border-radius: 5px;
+}
+.head1{
+ display: inline-block;
+ margin-bottom: 0px;
+ text-align: center;
+ padding-right:80px;
+}
+ /* button */
+#d3{
+width: 150px;
+background-color: aqua;
+padding: 10px;
+border-radius: 8px;
+border-radius: none;
+}
+
+/* Todolist css */
+
+
+/* App.jsx css */
+
+.AppD1{
+  display:flex;
+    width: 100%;
+}
+.AppD1 .Appch{
+  flex-basis: 40%;
+  margin: 3%;
+}
+
+
+/* Calculator css */
+#cd1{
+  width: 100px;
+/* background-color: aqua; */
+padding: 10px;
+border-radius: 8px;
+border-radius: none;
+color: #333;
+}
+#cb1{
+  width: 100px;
+  /* background-color: aqua; */
+  padding: 10px;
+  border-radius: 8px;
+  border-radius: none;
+  color: #333;
+  background-color: aqua;
+}
