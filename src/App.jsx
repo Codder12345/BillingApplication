@@ -11,6 +11,8 @@ function App() {
   return (
     <>
       {/* <BillingApp/> */}
+   <h1 style={{ color: 'blue' , fontWeight: 'bold' , fontSize: '2rem'}}>🧮 All-in-One Utility App</h1>
+  <p>Calculator • Billing • Todo List</p>
      <div className='AppD1'>
     <div className='Appch'> <BillingApplication/></div>
      <div className='Appch'><TodoList/></div>
